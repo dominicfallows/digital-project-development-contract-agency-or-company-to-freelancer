@@ -115,12 +115,17 @@ Everyone should sign above and keep a copy for their records.
 #### About this contract 
 Originally published: 18/Aug/2015 by [Dominic Fallows](https://gist.github.com/dominicfallows "Dominic Fallows")
 
+&nbsp;
+
 #### Credits and License for use of this contract
 
-[This contract](https://gist.github.com/dominicfallows/6414895613face429a3e "This contract") is forked from the [Contract Killer 3](https://gist.github.com/malarkey/4031110, "Contract Killer 3") project.
+[This contract](https://gist.github.com/dominicfallows/6414895613face429a3e "This contract") is forked from the [Contract Killer 3](https://gist.github.com/malarkey/4031110 "Contract Killer 3") project.
 
-[ ![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons License") ](http://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License")
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons License") ](http://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License")
+
 [This contract](https://gist.github.com/dominicfallows/6414895613face429a3e "This contract") is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License").
+
+&nbsp;
 
 #### Disclaimer
 
