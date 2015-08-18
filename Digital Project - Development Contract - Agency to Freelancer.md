@@ -115,5 +115,8 @@ Everyone should sign above and keep a copy for their records.
 
 ##### Credits and License for use of this contract
 
+This contract is forked from the [Contract Killer 3](https://gist.github.com/malarkey/4031110, "Contract Killer 3") project.
+
 [ ![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons License") ](http://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License")
+
 This contract by [Dominic Fallows](https://gist.github.com/dominicfallows/6414895613face429a3e "Dominic Fallows") is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License").
