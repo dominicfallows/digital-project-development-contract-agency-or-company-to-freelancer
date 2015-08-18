@@ -103,25 +103,27 @@ Date [date]
 
 Everyone should sign above and keep a copy for their records.
 
+&nbsp;
+&nbsp;
+
 ***
 
-
 ##### About this contract 
-<small>Originally published: 18/Aug/2015 by [Dominic Fallows](https://gist.github.com/dominicfallows "Dominic Fallows")</small>
+Originally published: 18/Aug/2015 by [Dominic Fallows](https://gist.github.com/dominicfallows "Dominic Fallows")
 
-##### Credits and License for use of this contract
+#### Credits and License for use of this contract
 
-<small>[This contract](https://gist.github.com/dominicfallows/6414895613face429a3e "This contract") is forked from the [Contract Killer 3](https://gist.github.com/malarkey/4031110, "Contract Killer 3") project.</small>
+[This contract](https://gist.github.com/dominicfallows/6414895613face429a3e "This contract") is forked from the [Contract Killer 3](https://gist.github.com/malarkey/4031110, "Contract Killer 3") project.
 
 [ ![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons License") ](http://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License")
-<small>[This contract](https://gist.github.com/dominicfallows/6414895613face429a3e "This contract") is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License").</small>
+[This contract](https://gist.github.com/dominicfallows/6414895613face429a3e "This contract") is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License").
 
-##### Disclaimer
+#### Disclaimer
 
-<small>Neither myself (Dominic Fallows) or companies I may be contracted with or represent in any form are not a legal profressionals or practices and this example contract does not constitute legal advice.</small>
+Neither myself (Dominic Fallows) or companies I may be contracted with or represent in any form are not a legal profressionals or practices and this example contract does not constitute legal advice.
 
-<small>The contract is written for my own (and companies I'm consult with) professional use based on specific individal requirements. I share this document as an example and guide for you to use for your own requirements - and reserve the right to add, amend, replace, or remove sections without notice.</small>
+The contract is written for my own (and companies I'm consult with) professional use based on specific individal requirements. I share this document as an example and guide for you to use for your own requirements - and reserve the right to add, amend, replace, or remove sections without notice.
 
-<small>I (Dominic Fallows), any companies I consult or represent in any form or any partners I work with - will not be liable for any loss or damage arising directly or indirectly from the possession, publication, or use of or reliance on this example contract.</small>
+I (Dominic Fallows), any companies I consult or represent in any form or any partners I work with - will not be liable for any loss or damage arising directly or indirectly from the possession, publication, or use of or reliance on this example contract.
 
-<small>Agencies and freelancers should always obtain their own legal advice.</small>
+Agencies and freelancers should always obtain their own legal advice.
