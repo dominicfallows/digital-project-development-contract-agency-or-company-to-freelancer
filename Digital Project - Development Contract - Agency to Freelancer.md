@@ -105,17 +105,12 @@ Everyone should sign above and keep a copy for their records.
 
 &nbsp;
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 
 ***
 
 #### About this contract 
 Originally published: 18/Aug/2015 by [Dominic Fallows](https://gist.github.com/dominicfallows "Dominic Fallows")
 
-&nbsp;
 
 #### Credits and License for use of this contract
 
@@ -125,7 +120,6 @@ Originally published: 18/Aug/2015 by [Dominic Fallows](https://gist.github.com/d
 
 [This contract](https://gist.github.com/dominicfallows/6414895613face429a3e "This contract") is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License").
 
-&nbsp;
 
 #### Disclaimer
 
