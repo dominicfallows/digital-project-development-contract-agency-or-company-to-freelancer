@@ -115,4 +115,5 @@ Everyone should sign above and keep a copy for their records.
 
 ##### Credits and License for use of this contract
 
-[ ![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons License") ](http://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License") This contract by (https://gist.github.com/dominicfallows/6414895613face429a3e "Dominic Fallows") is licensed under a (http://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License").
+[ ![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons License") ](http://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License")
+This contract by [Dominic Fallows](https://gist.github.com/dominicfallows/6414895613face429a3e "Dominic Fallows") is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License").
