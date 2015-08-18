@@ -105,10 +105,14 @@ Everyone should sign above and keep a copy for their records.
 
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ***
 
-##### About this contract 
+#### About this contract 
 Originally published: 18/Aug/2015 by [Dominic Fallows](https://gist.github.com/dominicfallows "Dominic Fallows")
 
 #### Credits and License for use of this contract
