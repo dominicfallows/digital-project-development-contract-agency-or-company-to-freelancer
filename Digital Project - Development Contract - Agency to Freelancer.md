@@ -110,3 +110,7 @@ Signed by and on behalf of [customer name]
 Date [date]
 
 Everyone should sign above and keep a copy for their records.
+
+
+
+####Credits and License for use of this contract
