@@ -17,11 +17,15 @@ and
 
 ## Summary: 
 
-We’ll always do our best to fulfil your needs and meet your expectations, but it’s important to have things written down so that we both know what’s what, who should do what and when, and what will happen if something goes wrong. In this contract you won’t find any complicated legal terms or long passages of unreadable text. We’ve no desire to trick you into signing something that you might later regret. What we do want is what’s best for both parties, now and in the future.
+As an agnecy we like to build professional long-term good work relationships, 'professional friends' if you will, both internally and with external parties. We know that you'll do your best to fulfil our needs and meet our expectations (and vice-versa), but it’s important to have things written down so that we both know what’s what, who should do what and when, and what will happen if something goes wrong. In this contract you won’t find any complicated legal terms or long passages of unreadable text. We’ve no desire to trick you into signing something that you might later regret. What we do want is what’s best for both parties, now and in the future.
 
 So in short;
 
-You ([customer name]), located at [customer address] are hiring us ([company name]) located at [company address] to [design and develop a web site] for the estimated total price of [total] as outlined in our previous correspondence. Of course it’s a little more complicated, but we’ll get to that.
+We are contracing you to provide **[front-end development and/or back-end development and/or technical lead/architect ...] services for a **[digital project and/or mobile app ...]** on a **[whitelabel sub-contractor or public sub-contractor basis]** on our client project **[project name]**.
+
+We've discussed timelines and prices during previous correspondence and further on in this contract - but in summary we have agreed the above services to take as estimated total of **[total time]** with an estimated total price of **[total price]**.
+
+Of course it's a little more complicated, but we'll detail that further in this contract and throughout the project.
 
 ## What do both parties agree to do? 
 
