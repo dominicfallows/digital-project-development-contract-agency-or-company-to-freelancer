@@ -150,7 +150,7 @@ Good relationships are two-way, so we expect you to work with us to resolve any 
 Finally, if any provision of this contract shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this contract and shall not affect the validity and enforceability of any remaining provisions.
 
 
-### Work for Hire, Copyrights & Intellectual Property
+### Work for Hire, Copyrights, Intellectual Property and Confidentiality
 
 First, we will guarantee that all elements of text, images or other artwork we provide are either owned by us, or that we have permission to use them.
 
@@ -163,6 +163,10 @@ With that said, we understand that you might utlise existing IP, either your own
 Should any of your IP be agreed for use on the project, you should be happy to license its use by us and the contracting client, exclusively and in perpetuity for this project only, unless we agree otherwise.
 
 Credits and license details to your IP will always be maintained within the project files and notes. 
+
+Notwithstanding ownership by us of the created IP, you and personnel within your company shall be free to use and employ their skills, know-how, and expertise, and to use, disclose, and employ any generalized ideas, concepts, know-how, methods, techniques, or skills gained or learned during the course of any assignment, so long as they acquire and apply such information without disclosure of any confidential or proprietary information of ours and without any unauthorised use or disclosure of the project.
+
+You and your company [agree to sign/have already agreed and signed] a Mutual Non-Disclosure Agreement which details confidentiality in more detail.
 
 We love to show off our work and share what we’ve learned with other people, so we should discuss any components that we can release, with joint permission between us and you, as open-source projects with joint author credits. 
 
