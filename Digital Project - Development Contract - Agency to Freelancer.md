@@ -13,7 +13,7 @@ Between "us" (or "we") **[your company name]** of **[your company address]** reg
 
 and
 
-"you" **[freelancer name / company name]** of **[freelance company address]** **[optional: registered in [England & Wales OR Scotland OR freelance registered country]]** **[optional: with company number [your company number]]**
+"you" **[freelancer name / company name]** of **[freelance company address]** [optional: registered in **[England & Wales OR Scotland OR freelance registered country]**] [optional: with company number **[your company number]**]
 
 ## Summary: 
 
