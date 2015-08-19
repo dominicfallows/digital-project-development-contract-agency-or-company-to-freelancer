@@ -95,7 +95,16 @@ Browser testing no longer *just* means attempting to make a website look the sam
 
 ##### Desktop browser testing
 
-We require our projects to work in all current variations of major desktop browsers and operating systems including those made by Apple (Safari), Google (Chrome), Microsoft (Internet Explorer AND Edge), Mozilla Firefox and Opera on Windows (9+), Mac OS (10+).
+We require our projects to work in all current variations of major desktop browsers and operating systems including those made by:
+- Apple (Safari)
+- Google (Chrome)
+- Microsoft (Internet Explorer and Edge)
+- Mozilla Firefox
+- Opera
+
+on
+- Windows (9+)
+- Mac OS (10+)
 
 We also require that projects are tested to ensure Microsoft Internet Explorer 9+ for Windows users functions to a high-quality appropriate, possibly adapted, experience. We don't require our projects to work in older (below 9) versions of Internet Explorer unless otherwise specified pre-conract and at project kick-off meetings. Appropraite additional fees for development of adaptive browser features should be agreed before the start of development.
 
@@ -103,9 +112,9 @@ We also require that projects are tested to ensure Microsoft Internet Explorer 9
 
 Testing popular small-screen devices is essential in ensuring that a person’s experience of a view/interface/app is appropriate to the capabilities of the device they’re using. We test our work in:
 
-iOS: Safari, Google Chrome 
-Android 4.x: Google Chrome and Firefox
-Windows Mobile 10.x: Edge, and if available at time of this contract Google Chrome and Firefox
+- iOS: Safari, Google Chrome 
+- Android 4.x: Google Chrome and Firefox
+- Windows Mobile 10.x: Edge, and if available at time of this contract Google Chrome and Firefox
 
 Additional appropriate fees should be discussed before the start of development should the project require testing on Blackberry, Opera Mini/Mobile or another non-standard mobile browsers.
 
@@ -114,34 +123,55 @@ Additional appropriate fees should be discussed before the start of development 
 
 [We will procure/You should adivse us on the procurement of] a [web and/or app and/or cloud and/or email ...] hosting company. Support and maintence for website hosting, email or other services relating to hosting [will be procured by us/should be advised by you].
 
-[We/You] have professional hosting and [we/you] will manage that hosting for this project. [We/You] will [setup/not-need] remote access to any. We can set up an account for you at one of our preferred hosting providers. We can set up your site on a server, plus any statistics software such as Google Analytics and we can provide a separate estimate for that. Then, the updates to, and management of that server will be up to you. 
+[We/You] have professional hosting and [we/you] will manage that hosting for this project. 
+
+[We/You] will setup a staging and live server and [we/you] will [setup] remote [FTP/SFTP/SSH/Control Panel] access to these servers as required.
+
+Updates to, and management of those server will be up to [us/you]. 
+
+[We/You] will setup statistics software, such as Google Analytics on the [staging/live] deployments.
+
+As agreed in the project kick-off [we/you] will deploy stating/testing delpoyments and [we/you] will deploy live deployments to servers according to the agreed project schedule.
 
 
 ### Changes and revisions 
 
-We know from experience that fixed-price contracts are rarely beneficial to you, as they often limit you to your earliest ideas. We don’t want to limit your ability to change your mind. The price at the beginning of this contract is based on the length of time we estimate we’ll need to accomplish everything you’ve told us you want to achieve, but we’re happy to be flexible. If you want to change your mind or add anything new, that won’t be a problem as we’ll provide a separate estimate for that.
+You and us understand that project briefs sometimes change, we agree to discuss these changes in a timely fashion and agree any changes to estimates (time or price). The estimates (time and price) at the beginning of this contract are based on the length of time you and us have estimated will be needed to accomplish everything we want to achieve, but of course agree to be flexible where required.
+
 
 ### Legal stuff 
 
-We can’t guarantee that our work will be error-free and so we can’t be liable to you or any third-party for damages, including lost profits, lost savings or other incidental, consequential or special damages, even if you’ve advised us of them. Finally, if any provision of this contract shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this contract and shall not affect the validity and enforceability of any remaining provisions.
- 
-Phew.
+We agree that there is no ultimate guarantee that work we produce together will be error-free, although you agree that work will be produced to the highest of standards and every appropriate measure should be taken by you during development and testing to prevent errors, so we won't unreasonably hold you, or any third-party, liable for damages, including lost profits, lost savings or other incidental, consequential or special damages, even if we've advised you of them. 
 
-### Copyrights 
+Good relationships are two-way, so we expect you to work with us to resolve any such errors in a fair and timeley manner, with appropriate and measured costs and timings being discussed.
 
-First, you guarantee that all elements of text, images or other artwork you provide are either owned by your good selves, or that you’ve permission to use them.
+Finally, if any provision of this contract shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this contract and shall not affect the validity and enforceability of any remaining provisions.
 
-Then, when your final payment has cleared, copyright will be automatically assigned as follows:
 
-You’ll own the visual elements that we create for this project. We’ll give you source files and finished files and you should keep them somewhere safe as we’re not required to keep a copy. You own all elements of text, images and data you provided, unless someone else owns them. 
+### Work for Hire, Copyrights & Intellectual Property
 
-We’ll own the unique combination of these elements that constitutes a complete design and we’ll license its use to you, exclusively and in perpetuity for this project only, unless we agree otherwise.
+First, we will guarantee that all elements of text, images or other artwork we provide are either owned by us, or that we have permission to use them.
 
-We love to show off our work and share what we’ve learned with other people, so we reserve the right, with your permission, to display and link to your project as part of our portfolio and to write about it on websites, in magazine articles and in books.
+#### Work for Hire
+
+You expressly acknowledge and agree that any all "Intellectual Property" (or "IP") prepared by you for us, or provided to you by us, under this contract shall be considered "works for hire" and is our exclusive property, unless otherwise specified. These items shall include, but shall not be limited to, any and all deliverables resulting from your services or contemplated by this contract and project, all tangible results and proceeds of the services, works in progress, records, diagrams, notes, drawings, specifications, schematics, documents, designs, improvements, inventions, discoveries, developments, trademarks, trade secrets, customer lists, databases, software, programs, middleware, applications, and solutions conceived, made, or discovered by you, solely or in collaboration with others, during the term of this contract and proejct relating in any manner to you services.
+
+With that said, we understand that you might utlise existing IP, either your own, open-source or commercial. You should list all IP used and detail the copyright, ownership and licenes to us. We should agree to the use of any IP before it is used in the project.
+
+Should any of your IP be agreed for use on the project, you should be happy to license its use by us and the contracting client, exclusively and in perpetuity for this project only, unless we agree otherwise.
+
+Credits and license details to your IP will always be maintained within the project files and notes. 
+
+We love to show off our work and share what we’ve learned with other people, so we should discuss any components that we can release, with joint permission between us and you, as open-source projects with joint author credits. 
+
+We will always like to display new projects on our own portfolfio and to write about it on websites, in magazine articles and in books (etc), where you've licensed use of your IP to the project, you'll also agree as default (as part of this contract) to allow us to include this in portfolio activities. 
+
+Where appropritate (depending on the agreed form of the sub-contracter arrangement for this project) we may agree that you can display and link to the project as part of your portfolio and to write about it on websites, in magazine articles and in books (etc). You should obtain written authorisation from us before doing this, as this permission may be sensitive depening on our client contracts.
+
 
 ### Payments 
 
-We’re sure you understand how important it is as a small business that you pay the invoices that we send you promptly. As we’re also sure you’ll want to stay friends, you agree to stick tight to the following payment schedule.
+We understand how important it is that we pay invoices you send us promptly. We agree to stick to the following payment schedule:
 
 [Payment schedule]
 
@@ -151,7 +181,6 @@ Just like a parking ticket, you can’t transfer this contract to anyone else wi
 
 Although the language is simple, the intentions are serious and this contract is a legal document under exclusive jurisdiction of [English and Welsh] courts. 
 
-Oh and don’t forget those men with big dogs.
 
 ### The dotted line 
 
