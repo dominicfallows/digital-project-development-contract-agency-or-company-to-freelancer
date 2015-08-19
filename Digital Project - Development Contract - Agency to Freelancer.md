@@ -27,41 +27,67 @@ We've discussed timelines and prices during previous correspondence and further 
 
 Of course it's a little more complicated, but we'll detail that further in this contract and throughout the project.
 
+
 ## What do both parties agree to do? 
 
-*You:* You have the authority to enter into this contract on behalf of yourself, your company or your organisation. You’ll give us everything we need to complete the project as and when and in the format we need it. You’ll review our work, provide feedback and approval in a timely manner too. Deadlines work two ways, so you’ll also be bound by dates we set together. You also agree to stick to the payment schedule set out at the end of this contract.
+*You:* You have the authority to enter into this contract on behalf of yourself, your company or your organisation. You have the experience and ability to do everything we’ve agreed with you and you’ll do it all in a professional and timely manner. You’ll endeavour to meet every deadline that’s set and on top of that you'll maintain the confidentiality of everything we give you.
 
-*Us:* We have the experience and ability to do everything we’ve agreed with you and we’ll do it all in a professional and timely manner. We’ll endeavour to meet every deadline that’s set and on top of that we'll maintain the confidentiality of everything you give us.
+*Us:* We’ll give you everything you need to complete the project as and when and in the format you need it (as discussed). We’ll review your work, provide feedback and approval in a timely manner too. Deadlines work two ways, so we’ll also be bound by dates we set together. We also agree to stick to the payment schedule set out at the end of this contract.
+
 
 ## Getting down to the nitty gritty 
 
+### Project kick-off, Project Management
+
+We work using [a(n) agile/scrum/waterfall/prince2/etc] [strict/influenced] approach on projects, meaning that you can expect from us: 
+
+- a kick-off meeting, usually accompanied by coffee, where we will discuss the brief, project plan and scheudle and exchange notes
+- regular scrums/catch-ups [in person/by Skype/by email], optionally accompanied by coffee, where we will discuss progress and exchange notes, on a schedule agreed upon in the project kick-off meeting
+- milestone/phase/commit/release QA and sign-off in an agile/continous development style
+- soft-release QA and sign-off
+- launch-release QA and sign-off
+- [add/amend/delete project variables]
+
+You agree to attend and input to the above, making sure that the project progresses appropriately to maintain the schedule.
+
+
 ### Design 
 
-We create look-and-feel designs, and flexible layouts that adapt to the capabilities of many devices and screen sizes. We create designs iteratively and use predominantly HTML and CSS so we won’t waste time mocking up every template as a static visual. We may use static visuals to indicate a look-and-feel direction (colour, texture and typography.) We call that ‘design atmosphere.’
+[We will provide you with designs/We require you to create designs] and notes for all views and interaces - where needed. [We will/you agree to] create designs with [responsive/adaptive/flexible] layouts that suit the features of the project brief and capabilities of many devices and screen sizes and provide design & development notes and annotations.
 
-You’ll have plenty of opportunities to review our work and provide feedback. We’ll share our working Dropbox with you and have regular, possibly daily contact. If, at any stage, you’re not happy with the direction our work is taking, you’ll pay us in full for everything we’ve produced until that point and cancel this contract.
+Where appropriate [we/you] will save time by replicating similar views and interfaces later at the development stage, noting these similar pages on the design files and making sure all content is available. Basically if there are a number of views/pages/interfaces using shared elements and templates, these can be built rather than designs. From time to time a client will need to see every page mocked up, but we can discuss interactive (built) mockups to save time in the longrun.
 
-### Text content 
+You and us will welcome constructive two-way review of designs throughout to enable the best outcome. [You/We] will share designs using [Google Drive/Dropbox/One Drive/GitHub/etc] and keeop you updated with progress throughout design stage.
 
+### Content
+
+#### Copy
 We’re not responsible for writing or inputting any text copy. If you’d like us to write new content or input text for you, we can provide a separate estimate for that.
 
-### Photographs 
+#### Photographs 
 
 You should supply graphic files in an editable, vector digital format. You should supply photographs in a high resolution digital format. If you choose to buy stock photographs, we can suggest stock libraries. If you’d like us to search for photographs for you, we can provide a separate estimate for that.
 
-### HTML, CSS and JavaScript
 
+### Development
+
+By adopting [a(n) phased/agile style] design process we can have two way review
+If, at any stage, you’re not happy with the direction our work is taking, you’ll pay us in full for everything we’ve produced until that point and cancel this contract.
+
+#### Code
 We deliver web page types developed from HTML5 markup, CSS2.1 + 3 stylesheets for styling and unobtrusive JavaScript for feature detection, poly-fills and behaviours.
 
-### Browser testing
+#### Testing and QA
+
+##### Responsive Device & Browser testing and QA
 
 Browser testing no longer means attempting to make a website look the same in browsers of different capabilities or on devices with different size screens. It does mean ensuring that a person’s experience of a design should be appropriate to the capabilities of a browser or device.
 
-### Desktop browser testing
+##### Desktop browser testing
 
 We test our work in current versions of major desktop browsers including those made by Apple (Safari), Google (Chrome), Microsoft (Internet Explorer), Mozilla Firefox and Opera. We’ll also test to ensure Microsoft Internet Explorer 9 for Windows users get an appropriate, possibly different, experience. We’ll implement a single column design for older versions of Internet Explorer and we won’t test in other older browsers unless you specify otherwise. If you need an enhanced design for an older browser, we can provide a separate estimate for that.
 
-### Mobile browser testing
+##### Mobile browser testing
 
 Testing popular small-screen devices is essential in ensuring that a person’s experience of a design is appropriate to the capabilities of the device they’re using. We test our work in:
 
@@ -70,9 +96,10 @@ Android 4.x: Google Chrome and Firefox
 
 We currently don’t test Blackberry, Opera Mini/Mobile, Windows Phone or other mobile browsers. If you need us to test using these, we can provide a separate estimate for that.
 
-### Technical support
+#### Technical support
 
 We’re not a website hosting company so we don’t offer support for website hosting, email or other services relating to hosting. You may already have professional hosting and you might even manage that hosting in-house; if you do, great. If you don’t, we can set up an account for you at one of our preferred hosting providers. We can set up your site on a server, plus any statistics software such as Google Analytics and we can provide a separate estimate for that. Then, the updates to, and management of that server will be up to you. 
+
 
 ### Changes and revisions 
 
@@ -112,9 +139,18 @@ Oh and don’t forget those men with big dogs.
 
 ### The dotted line 
 
-Signed by and on behalf of [company name] 
-Signed by and on behalf of [customer name] 
-Date [date]
+Signed by: [your name]
+
+On behalf of: [your company name] 
+
+Date: [date]
+
+
+Signed by: [freelance name]
+
+[optional: On behalf of: [freelance company name]]
+
+Date: [date]
 
 Everyone should sign above and keep a copy for their records.
 
