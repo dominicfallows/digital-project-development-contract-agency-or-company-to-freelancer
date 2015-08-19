@@ -1,5 +1,11 @@
 # Digital Project - Development Contract
-## Agency to Freelance Web Developer
+## Company/Agency to Freelance Web Developer
+
+***
+I've shared this contact for use by Creative, Digital and Marketing Agencies (or any company for that matter) to use when contracting a Freelance Web Developer on digital projects. Feel free to fork, amend and use for your own projects however please be nice and [credit where credit is due](https://gist.github.com/dominicfallows/6414895613face429a3e#credits-and-license-for-use-of-this-contract "Credits and License for use of this contract") and take a note of the [disclaimer](https://gist.github.com/dominicfallows/6414895613face429a3e#disclaimer "Disclaimer") on this document.
+
+PS: feel free to remove this section (of course) when using in your final docs.
+***
 
 Between us [company name] 
 and you [customer name] 
