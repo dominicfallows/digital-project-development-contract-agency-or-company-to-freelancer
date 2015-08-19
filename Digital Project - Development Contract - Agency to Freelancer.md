@@ -119,11 +119,9 @@ Everyone should sign above and keep a copy for their records.
 
 ***
 
-#### About this contract 
-Originally published: 18/Aug/2015 by [Dominic Fallows](https://gist.github.com/dominicfallows "Dominic Fallows")
-
-
 #### Credits and License for use of this contract
+
+Originally published: 18/Aug/2015 by [Dominic Fallows](https://gist.github.com/dominicfallows "Dominic Fallows")
 
 [This contract](https://gist.github.com/dominicfallows/6414895613face429a3e "This contract") is forked from the [Contract Killer 3](https://gist.github.com/malarkey/4031110 "Contract Killer 3") project.
 
