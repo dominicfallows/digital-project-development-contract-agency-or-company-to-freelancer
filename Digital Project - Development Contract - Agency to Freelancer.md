@@ -9,9 +9,7 @@ PS: feel free to remove this section (of course) when using in your final docs.
 # Digital Project - Development Contract
 ## Company/Agency to Freelance Web Developer
 
-&nbsp;
-
-Between "us" (or "we") [your company name] of [your company address] registered in [England & Wales OR Scotland OR your registered country] with company number [your company number]
+Between "us" (or "we") *[your company name]* of [your company address] registered in [England & Wales OR Scotland OR your registered country] with company number [your company number]
 
 and "you" [freelancer name / company name] of [freelance company address] [optional: registered in [England & Wales OR Scotland OR freelance registered country]] [optional: with company number [your company number]]
 
