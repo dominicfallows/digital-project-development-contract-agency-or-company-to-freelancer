@@ -39,7 +39,7 @@ Of course it's a little more complicated, but we'll detail that further in this 
 
 ### Project kick-off, Project Management
 
-We work using [a(n) agile/scrum/waterfall/prince2/etc] [strict/influenced] approach on projects, meaning that you can expect from us: 
+We work using [a(n) agile/scrum/waterfall/gantt/kanban/prince2/etc] [strict/influenced] approach on projects, meaning that you can expect from us: 
 
 - a kick-off meeting, usually accompanied by coffee, where we will discuss the brief, project plan and scheudle and exchange notes
 - regular scrums/catch-ups [in person/by Skype/by email], optionally accompanied by coffee, where we will discuss progress and exchange notes, on a schedule agreed upon in the project kick-off meeting
@@ -62,43 +62,59 @@ You and us will welcome constructive two-way review of designs throughout to ena
 ### Content
 
 #### Copy
-We’re not responsible for writing or inputting any text copy. If you’d like us to write new content or input text for you, we can provide a separate estimate for that.
+Copy and text will be [provided by us/written by you] in both designs and notes documents. [You/We] will enter text as per original discussions (for the first version of the website) into views/interfaces/CMS. [We have agreed a separate cost for copywriting services].
 
-#### Photographs 
+#### Imagery / Photography
 
-You should supply graphic files in an editable, vector digital format. You should supply photographs in a high resolution digital format. If you choose to buy stock photographs, we can suggest stock libraries. If you’d like us to search for photographs for you, we can provide a separate estimate for that.
+[We/You] will (where required/appropriate/possible) supply graphic files in an editable, vector digital format. [We/You] should supply photographs in a high resolution digital format. All stock imagery purchased [will be provided by us to you/should be provided to us by you] in high-res formats included notes and proof of useage licenses. 
 
 
 ### Development
 
-By adopting [a(n) phased/agile style] design process we can have two way review
-If, at any stage, you’re not happy with the direction our work is taking, you’ll pay us in full for everything we’ve produced until that point and cancel this contract.
+By adopting [a(n) phased/agile style/etc] development process we can have two continual two-way review of project progress and release versions of the code for testing and client approval [throughout/at agreed milestones during] the project.
 
-#### Code
-We deliver web page types developed from HTML5 markup, CSS2.1 + 3 stylesheets for styling and unobtrusive JavaScript for feature detection, poly-fills and behaviours.
+If, at any stage, we’re not happy with the direction your work is taking, we'll discuss a fair payment for the work produced until that point and cancel this contract.
+
+#### Code, Features, Frameworks, Systems, Versioning & Programming Languages
+We will detail the requirments for the code, development of features, integration of plugins, frameworks, systems, versioning and programming languages in pre-contract discussions and during project kick-off and scrums/catchups, but in summary the project requires:
+
+- [list of code, features, frameworks, programming language and any other (technical based) variables]
+- [ CMS requirements ]
+- [ Versioning (GitHub, SVN server etc) ]
+- [ etc...]
+
+Also, the most modern versions of everything should be considered for us (for example HTML5, CSS2.1 + 3 where needed, best-practive JavaScript, feature detection and adaptation, poly-fils and behaviours etc) to enable an up-to-date (technically), secure and high-quality end product. 
+
+We love to adopt new technologies in projects, but these should be agreed between first at project kick-off and scrum/catchup meetings.
 
 #### Testing and QA
 
 ##### Responsive Device & Browser testing and QA
 
-Browser testing no longer means attempting to make a website look the same in browsers of different capabilities or on devices with different size screens. It does mean ensuring that a person’s experience of a design should be appropriate to the capabilities of a browser or device.
+Browser testing no longer *just* means attempting to make a website look the same in browsers of different capabilities or on devices with different size screens. It *also* means ensuring that a person’s experience of a view/interface/app should be appropriate to the capabilities of a browser or device.
 
 ##### Desktop browser testing
 
-We test our work in current versions of major desktop browsers including those made by Apple (Safari), Google (Chrome), Microsoft (Internet Explorer), Mozilla Firefox and Opera. We’ll also test to ensure Microsoft Internet Explorer 9 for Windows users get an appropriate, possibly different, experience. We’ll implement a single column design for older versions of Internet Explorer and we won’t test in other older browsers unless you specify otherwise. If you need an enhanced design for an older browser, we can provide a separate estimate for that.
+We require our projects to work in all current variations of major desktop browsers and operating systems including those made by Apple (Safari), Google (Chrome), Microsoft (Internet Explorer AND Edge), Mozilla Firefox and Opera on Windows (9+), Mac OS (10+).
+
+We also require that projects are tested to ensure Microsoft Internet Explorer 9+ for Windows users functions to a high-quality appropriate, possibly adapted, experience. We don't require our projects to work in older (below 9) versions of Internet Explorer unless otherwise specified pre-conract and at project kick-off meetings. Appropraite additional fees for development of adaptive browser features should be agreed before the start of development.
 
 ##### Mobile browser testing
 
-Testing popular small-screen devices is essential in ensuring that a person’s experience of a design is appropriate to the capabilities of the device they’re using. We test our work in:
+Testing popular small-screen devices is essential in ensuring that a person’s experience of a view/interface/app is appropriate to the capabilities of the device they’re using. We test our work in:
 
 iOS: Safari, Google Chrome 
 Android 4.x: Google Chrome and Firefox
+Windows Mobile 10.x: Edge, and if available at time of this contract Google Chrome and Firefox
 
-We currently don’t test Blackberry, Opera Mini/Mobile, Windows Phone or other mobile browsers. If you need us to test using these, we can provide a separate estimate for that.
+Additional appropriate fees should be discussed before the start of development should the project require testing on Blackberry, Opera Mini/Mobile or another non-standard mobile browsers.
 
-#### Technical support
 
-We’re not a website hosting company so we don’t offer support for website hosting, email or other services relating to hosting. You may already have professional hosting and you might even manage that hosting in-house; if you do, great. If you don’t, we can set up an account for you at one of our preferred hosting providers. We can set up your site on a server, plus any statistics software such as Google Analytics and we can provide a separate estimate for that. Then, the updates to, and management of that server will be up to you. 
+#### Hosting, Technical support and Deployment
+
+[We will procure/You should adivse us on the procurement of] a [web and/or app and/or cloud and/or email ...] hosting company. Support and maintence for website hosting, email or other services relating to hosting [will be procured by us/should be advised by you].
+
+[We/You] have professional hosting and [we/you] will manage that hosting for this project. [We/You] will [setup/not-need] remote access to any. We can set up an account for you at one of our preferred hosting providers. We can set up your site on a server, plus any statistics software such as Google Analytics and we can provide a separate estimate for that. Then, the updates to, and management of that server will be up to you. 
 
 
 ### Changes and revisions 
