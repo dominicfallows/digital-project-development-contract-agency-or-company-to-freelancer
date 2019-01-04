@@ -1,12 +1,8 @@
-***
-I've shared this contact for use by Creative, Digital and Marketing Agencies (or any company for that matter) to use when contracting a Freelance Web Developer on digital projects. Feel free to fork, amend and use for your own projects however please be nice and [credit where credit is due](https://gist.github.com/dominicfallows/6414895613face429a3e#credits-and-license-for-use-of-this-contract "Credits and License for use of this contract") and take a note of the [disclaimer](https://gist.github.com/dominicfallows/6414895613face429a3e#disclaimer "Disclaimer") on this document.
-
-My aim is to create a realistic, agreeable contract with as little unreadable jargon as possible. Hopefully this example contract achieves that and is useful to you, feel free to comment so I can amend. 
-
-PS: feel free to remove this section (of course) when using in your final docs.
-
-***
-&nbsp;
+> I've shared this contact for use by Creative, Digital and Marketing Agencies (or any company for that matter) to use when contracting a Freelance Web Developer on digital projects. Feel free to fork, amend and use for your own projects however please be nice and [credit where credit is due](https://gist.github.com/dominicfallows/6414895613face429a3e#credits-and-license-for-use-of-this-contract "Credits and License for use of this contract") and take a note of the [disclaimer](https://gist.github.com/dominicfallows/6414895613face429a3e#disclaimer "Disclaimer") on this document.
+>
+> My aim is to create a realistic, agreeable contract with as little unreadable jargon as possible. Hopefully this example contract achieves that and is useful to you, feel free to comment so I can amend. 
+>
+> PS: feel free to remove this section (of course) when using in your final docs.
 
 # Digital Project - Development Contract
 ## Company/Agency to Freelance Web Developer
@@ -207,27 +203,25 @@ Date: [date]
 Everyone should sign above and keep a copy for their records.
 
 &nbsp;
-&nbsp;
 
 ***
 
 #### Credits and License for use of this contract
 
-Originally published: 18/Aug/2015 by [Dominic Fallows](https://gist.github.com/dominicfallows "Dominic Fallows")
-
-[This contract](https://gist.github.com/dominicfallows/6414895613face429a3e "This contract") is forked from the [Contract Killer 3](https://gist.github.com/malarkey/4031110 "Contract Killer 3") project.
-
-[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons License") ](http://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License")
-
-[This contract](https://gist.github.com/dominicfallows/6414895613face429a3e "This contract") is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License").
-
+> Originally published: 18/Aug/2015 by [Dominic Fallows](https://gist.github.com/dominicfallows "Dominic Fallows")
+>
+> [This contract](https://gist.github.com/dominicfallows/6414895613face429a3e "This contract") is forked from the [Contract Killer 3](https://gist.github.com/malarkey/4031110 "Contract Killer 3") project.
+>
+>[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons License") ](http://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License")
+>
+>[This contract](https://gist.github.com/dominicfallows/6414895613face429a3e "This contract") is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License").
 
 #### Disclaimer
 
-Neither myself (Dominic Fallows) or companies I may be contracted with or represent in any form are not a legal professionals or practices and this example contract does not constitute legal advice.
-
-The contract is written for my own (and companies I'm consult with) professional use based on specific individual requirements. I share this document as an example and guide for you to use for your own requirements - and reserve the right to add, amend, replace, or remove sections without notice.
-
-I (Dominic Fallows), any companies I consult or represent in any form or any partners I work with - will not be liable for any loss or damage arising directly or indirectly from the possession, publication, or use of or reliance on this example contract.
-
-Agencies and freelancers should always obtain their own legal advice.
+> Neither myself (Dominic Fallows) or companies I may be contracted with or represent in any form are not a legal professionals or practices and this example contract does not constitute legal advice.
+>
+> The contract is written for my own (and companies I'm consult with) professional use based on specific individual requirements. I share this document as an example and guide for you to use for your own requirements - and reserve the right to add, amend, replace, or remove sections without notice.
+>
+> I (Dominic Fallows), any companies I consult or represent in any form or any partners I work with - will not be liable for any loss or damage arising directly or indirectly from the possession, publication, or use of or reliance on this example contract.
+>
+> Agencies and freelancers should always obtain their own legal advice.
